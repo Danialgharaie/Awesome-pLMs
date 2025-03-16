@@ -16,6 +16,10 @@ Protein Language Models (pLMs) are machine learning models that leverage natural
 
 ## Protein Language Models
 
+## Related Repos
+
+1.  <https://github.com/zzhangzzhang/pLMs-interpretability>
+
 ## Benchmarks and Resources
 
 ## Contributing
