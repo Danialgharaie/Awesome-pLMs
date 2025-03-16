@@ -10,6 +10,7 @@ Protein Language Models (pLMs) are machine learning models that leverage natural
 
 1. Protein language models learn evolutionary statistics of interacting sequence motifs, Z. Zhang, H.K. Wayment-Steele, G. Brixi, H. Wang, D. Kern, & S. Ovchinnikov ([Link](https://www.pnas.org/doi/10.1073/pnas.2406285121))
 2. A Comprehensive Review of Protein Language Models, Lei Wang, Xudong Li, Han Zhang, Jinyi Wang, Dingkang Jiang, Zhidong Xue1, and Yan Wang ([Arxiv](https://arxiv.org/abs/2502.06881v1) [alphaxiv](https://www.alphaxiv.org/overview/2502.06881v1))
+3. Assessing the role of evolutionary information for enhancing protein language model embeddings, Kyra Erckert & Burkhard Rost ([Link](https://www.nature.com/articles/s41598-024-71783-8))
 
 ## Blog Posts
 
