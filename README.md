@@ -12,6 +12,7 @@ Protein Language Models (pLMs) are machine learning models that leverage natural
 2. A Comprehensive Review of Protein Language Models, Lei Wang, Xudong Li, Han Zhang, Jinyi Wang, Dingkang Jiang, Zhidong Xue1, and Yan Wang ([Arxiv](https://arxiv.org/abs/2502.06881v1) [alphaxiv](https://www.alphaxiv.org/overview/2502.06881v1))
 3. Assessing the role of evolutionary information for enhancing protein language model embeddings, Kyra Erckert & Burkhard Rost ([Link](https://www.nature.com/articles/s41598-024-71783-8))
 4.  Combining evolution and protein language models for an interpretable cancer driver mutation prediction with D2Deep, Konstantina Tzavella, Adrian Diaz, Catharina Olsen, Wim Vranken ([Link](https://academic.oup.com/bib/article/26/1/bbae664/7930073))
+5.  Convolutions are competitive with transformers for protein sequence pretraining, Kevin K. Yang, Nicolo Fusi, Alex X. Lu ([Link](https://doi.org/10.1016/j.cels.2024.01.008) [Repo](https://github.com/microsoft/protein-sequence-models))
 
 ## Blog Posts
 
